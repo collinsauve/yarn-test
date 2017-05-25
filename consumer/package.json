@@ -1,0 +1,16 @@
+{
+  "name": "yarn-test-consumer",
+  "version": "0.0.1",
+  "description": "Testing Yarn",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinsauve/yarn-test.git"
+  },
+  "dependencies": {
+    "package": "git+https://github.com/collinsauve/yarn-test/tree/.git package"
+  },
+  "author": "Collin Sauve",
+  "license": "Apache"
+}
